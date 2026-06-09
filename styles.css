@@ -1,0 +1,11 @@
+.home.body {
+  background-color: rgb(125, 226, 213);
+}
+.home.headers {
+  font-size: 60px;
+  text-align: center;
+}
+.home.links {
+  color: black;
+  font-size: 26px;
+}
