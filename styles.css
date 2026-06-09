@@ -8,4 +8,6 @@
 .home.links {
   color: black;
   font-size: 26px;
+  display: block;
+  margin: 20px 0;
 }
